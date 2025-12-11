@@ -43,7 +43,7 @@ An interactive **R Shiny web application** for exploring trends in U.S. baby nam
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **R & Shiny** – web application framework
 - **tidyverse** – data manipulation
