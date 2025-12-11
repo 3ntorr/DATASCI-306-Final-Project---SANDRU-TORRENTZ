@@ -44,7 +44,7 @@ Proposal Question:
 
 ### 📈 Top Baby Names Table
 - View the most popular baby names in a selected year
-- Displays top 10 names by gender
+- Displays top names by gender
 
 ### 🌈 Diversity & Uniqueness (Planned Extension)
 - Shannon Entropy to measure naming diversity
@@ -71,4 +71,36 @@ Proposal Question:
 
 ```r
 install.packages(c("shiny", "dplyr", "ggplot2", "tidyverse", "babynames"))
+shiny::runApp()
+```
+---
+
+#☁️ Deployment
+
+This app can be deployed online using shinyapps.io:
+```r
+install.packages("rsconnect")
+rsconnect::deployApp()
+```
+---
+
+# 📁 Repository Structure
+
+```bash
+├── app.R      # Shiny application code
+├── README.md  # Project documentation
+```
+---
+
+#🎓 Motivation
+
+Names are both personal identifiers and reflections of cultural and historical trends, making them interesting from both personal and research perspectives. Our app will combine data science with an opportunity for personal exploration, appealing to a wide audience.
+
+---
+
+#👤 Authors
+
+Lizzy Sandru and Natalie Torrentz
+University of Michigan
+Datasci 306 – Introduction to Statistical Computing
 
