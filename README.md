@@ -101,6 +101,8 @@ Names are both personal identifiers and reflections of cultural and historical t
 #👤 Authors
 
 Lizzy Sandru and Natalie Torrentz
+
 University of Michigan
+
 Datasci 306 – Introduction to Statistical Computing
 
