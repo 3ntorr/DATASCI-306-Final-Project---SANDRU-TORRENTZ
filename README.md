@@ -75,7 +75,7 @@ shiny::runApp()
 ```
 ---
 
-#☁️ Deployment
+## ☁️ Deployment
 
 This app can be deployed online using shinyapps.io:
 ```r
@@ -84,7 +84,7 @@ rsconnect::deployApp()
 ```
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```bash
 ├── app.R      # Shiny application code
@@ -92,13 +92,13 @@ rsconnect::deployApp()
 ```
 ---
 
-#🎓 Motivation
+## 🎓 Motivation
 
 Names are both personal identifiers and reflections of cultural and historical trends, making them interesting from both personal and research perspectives. Our app will combine data science with an opportunity for personal exploration, appealing to a wide audience.
 
 ---
 
-#👤 Authors
+## 👤 Authors
 
 Lizzy Sandru and Natalie Torrentz
 
