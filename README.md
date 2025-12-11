@@ -1,5 +1,5 @@
 # DATASCI-306-Final-Project---SANDRU-TORRENTZ
-# 👶 U.S. Baby Names Explorer (1880–2017)
+# 👶 U.S. Baby Names Explorer (1880–2017) 🍼
 
 An interactive **R Shiny web application** for exploring trends in U.S. baby name popularity and diversity using **Social Security Administration (SSA)** data via the `babynames` R package.
 
