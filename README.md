@@ -14,7 +14,7 @@ Using the **babynames dataset (1880–2017)**, this project investigates:
 - How overall naming **diversity** has changed across generations
 - Differences in trends by **gender**, **year**, and **decade**
 
-Proposal Question:
+**Proposal Question:**
   Using the “babynames” dataset (1880-2017) from the U.S. SSA, we aim to investigate how individual name popularity (uniqueness & rank) and rarity have evolved, and how overall naming “diversity” has increased or decreased over time. We will quantify trends in name uniqueness (LOESS-smoothed) and population-level diversity (Shannon-entropy & Gini Coefficient), and examine how these patterns vary by gender, year, and decade.
 
 ---
